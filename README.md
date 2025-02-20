@@ -1,7 +1,7 @@
 # **Phishing URL Detection Tool**
 
 ## Overview
-This tool analyzes domain names to detect potential phishing attempts. It retrieves WHOIS information, checks for homograph attacks, and intendifies hosting details to helpusers assess whether a domain might be suspicious. 
+This tool analyzes domain names to detect potential phishing attempts. It retrieves WHOIS information, checks for homograph attacks, and identifies hosting details to help users assess whether a domain might be suspicious.
 
 ## Features
 - **WHOIS Lookup** – Retrieves domain registration details, including creation date, registrar, and status.  
